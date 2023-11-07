@@ -7,8 +7,9 @@
 }
 
 body {
-  background-color: rgb(96, 3, 183);
+  background-color: blueviolet;
   display: flex;
+  /* justify-content: center; */
   overflow-x: hidden;
   font-family: 'Noto Sans Georgian', sans-serif;
   font-family: 'Poppins', sans-serif;
@@ -21,30 +22,33 @@ body {
 }
 
 .container {
-  width: 28rem;
+  /* display: flex; */
+  /* justify-content: center; */
+  width: 30rem;
   height: auto;
   background-color: white;
-  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.5),
-    0 6px 20px 0 rgba(0, 0, 0, 0.19);;
 }
 
 .title {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 400;
   margin: 40px;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 .person {
   display: flex;
   justify-content: center;
+  /* margin: 40px; */
 }
 
 .name {
   display: flex;
   flex-direction: column;
+  /* justify-content: center; */
   margin: 10px;
-  height: 0.22rem;
+
+  height: 0.25rem;
   font-size: small;
   letter-spacing: 1px;
   initial-letter: 1rem;
@@ -52,19 +56,19 @@ body {
 
 img {
   border-radius: 70%;
-  width: 80px;
+  width: 75px;
   height: 75px;
   margin: 10px;
-  margin-left: 30px;
+  margin-left: 10px;
   object-fit: cover;
 }
 
 .btn-clear {
   margin: 10px;
-  margin-left: 25px;
+  margin-left: 45px;
   display: flex;
   place-content: center;
-  background-color: rgb(103, 4, 197);
+  background-color: rgb(111, 9, 207);
   color: white;
   letter-spacing: 1px;
   font-size: 20px;
