@@ -1,33 +1,33 @@
 import React, { useState } from "react";
-
+import "./App.css"
 const initialInfo = [
   {
     id: 1,
-    images: "./src/images/img-1.jpg",
+    images: "src/img/img-1.jpg",
     title: "Ibrahim",
-    age: "19 years",
+    age: "20 years",
   },
   {
     id: 2,
-    images: "./src/images/img-2.jpg",
+    images: "src/img/img-2.jpg",
     title: "Hester Hogan",
-    age: "32 years",
+    age: "25 years",
   },
   {
     id: 3,
-    images: "./src/images/img-3.jpg",
+    images: "src/img/img-3.jpg",
     title: "Larry Little",
     age: "36 years",
   },
   {
     id: 4,
-    images: "./src/images/img-4.jpg",
+    images: "src/img/img-8.jpg",
     title: "Sean Walsh",
-    age: "34 years",
+    age: "28 years",
   },
   {
     id: 5,
-    images: "./src/images/img-5.jpg",
+    images: "src/img/img-7.jpg",
     title: "Lola Gardner",
     age: "29 years",
   },
