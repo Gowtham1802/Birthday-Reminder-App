@@ -3,31 +3,31 @@ import "./App.css"
 const initialInfo = [
   {
     id: 1,
-    images: "src/img/img-1.jpg",
+    images: "public/img/img-1.jpg",
     title: "Ibrahim",
     age: "20 years",
   },
   {
     id: 2,
-    images: "src/img/img-2.jpg",
+    images: "public/img/img-1.jpg",
     title: "Hester Hogan",
     age: "25 years",
   },
   {
     id: 3,
-    images: "src/img/img-3.jpg",
+    images: "public/img/img-1.jpg",
     title: "Larry Little",
     age: "36 years",
   },
   {
     id: 4,
-    images: "src/img/img-4.jpg",
+    images: "public/img/img-1.jpg",
     title: "Sean Walsh",
     age: "28 years",
   },
   {
     id: 5,
-    images: "src/img/img-5.jpg",
+    images: "public/img/img-1.jpg",
     title: "Lola Gardner",
     age: "29 years",
   },
