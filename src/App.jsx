@@ -21,13 +21,13 @@ const initialInfo = [
   },
   {
     id: 4,
-    images: "src/img/img-8.jpg",
+    images: "src/img/img-4.jpg",
     title: "Sean Walsh",
     age: "28 years",
   },
   {
     id: 5,
-    images: "src/img/img-7.jpg",
+    images: "src/img/img-5.jpg",
     title: "Lola Gardner",
     age: "29 years",
   },
